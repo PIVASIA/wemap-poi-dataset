@@ -1,8 +1,8 @@
 # wemap-poi-dataset
 
-WeMap PoI Dataset is a dataset for classifying PoI based on its name in Vietnamese, consisting of 750K PoI in 16 categories.
+**Dataset is coming soon.**
 
-Dataset is coming soon.
+WeMap PoI Dataset is a dataset for classifying PoI based on its name in Vietnamese, consisting of 750K PoI in 16 categories.
 
 By downloading the WeMap PoI dataset, USER agrees:
 
